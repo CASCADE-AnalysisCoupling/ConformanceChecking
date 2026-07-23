@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='edu.kit.kastel.sdq.coupling.models.conformance' version='1.0.0.202607230836'>
+    <properties size='9'>
+      <property name='artifact.size' value='235174'/>
+      <property name='download.size' value='235174'/>
+      <property name='download.checksum.sha-512' value='ef913666d3d79ed7afdf861ebc97e852effd04230357d990c98f79369521ea01b5bf34bc0c65713d28dfb985f4df8090050111395b11febc60e0b06f5bcfbffa'/>
+      <property name='download.checksum.sha-1' value='73cac369b977481f7e58087c23d93ffb9d20599a'/>
+      <property name='download.checksum.sha-256' value='e270e1b1a598bbc250badf20d4e10503af3c9e962a985775e8ea747b8e9d7dcb'/>
+      <property name='maven-groupId' value='edu.kit.kastel.sdq.coupling.models.conformance'/>
+      <property name='maven-artifactId' value='edu.kit.kastel.sdq.coupling.models.conformance'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+    </properties>
+  </artifact>
+</artifacts>

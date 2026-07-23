@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: edu.kit.kastel.sdq.coupling.models.conformance;sing
+ leton:=true
+Bundle-Version: 1.0.0.202607230836
+Bundle-ClassPath: .
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Automatic-Module-Name: edu.kit.kastel.sdq.coupling.models.conformance
+Require-Bundle: org.eclipse.emf.common;visibility:=reexport,org.eclipse.
+ emf.ecore;visibility:=reexport,org.eclipse.emf.ecore.xmi;visibility:=re
+ export,org.eclipse.core.runtime,com.google.gson;visibility:=reexport,or
+ g.junit,junit-jupiter-api
+Bundle-ActivationPolicy: lazy
+Export-Package: ReferenceMetamodel,ReferenceMetamodel.impl,ReferenceMeta
+ model.util,analysiscouplinggraph,analysiscouplinggraph.impl,analysiscou
+ plinggraph.util,mapping,mapping.impl,mapping.util,uncertainty,uncertain
+ ty.impl,uncertainty.util
+Import-Package: junit.framework
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=17))"
+

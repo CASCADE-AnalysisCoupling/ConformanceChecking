@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='ConformanceCheckingFeature' version='1.0.0.202607230836'>
+    <properties size='10'>
+      <property name='artifact.size' value='709'/>
+      <property name='download.size' value='709'/>
+      <property name='download.checksum.sha-512' value='c1c805477cb9e378b2ec01145123acae6a7e31f4d0892f9d46849e39c81fb2e2cdbc3c33ddb8df415b570fa48c914461c4e3824346bbc411af117f8f0edcc1aa'/>
+      <property name='download.checksum.sha-1' value='49b3766eea1518d46ea859436171912d4fdf9a14'/>
+      <property name='download.checksum.sha-256' value='8393e1d2d5b3a417810797fc88bbc455b8356d7b072ca59a227834d2158529f1'/>
+      <property name='maven-groupId' value='edu.kit.kastel.sdq.coupling.models.conformance'/>
+      <property name='maven-artifactId' value='ConformanceCheckingFeature'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-feature'/>
+      <property name='download.contentType' value='application/zip'/>
+    </properties>
+  </artifact>
+</artifacts>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="ConformanceCheckingFeature" version="0.0.0">
+      <category name="conformance.checking"/>
+   </feature>
+   <category-def name="conformance.checking" label="Conformance Checking">
+      <description>
+         Conformance checking models and related tooling.
+      </description>
+   </category-def>
+</site>
