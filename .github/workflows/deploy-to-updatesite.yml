@@ -17,6 +17,7 @@ jobs:
                     java-version: 17
                     cache: maven
             -   name: Build
+                working-directory: edu.kit.kastel.sdq.coupling.models.conformance
                 run: mvn clean verify
             -   name: Publish Update-Site
                 uses: peaceiris/actions-gh-pages@v4
